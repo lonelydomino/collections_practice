@@ -15,7 +15,7 @@ Build a method `sort_array_asc` that takes in an array of integers and returns a
 
 ## Question 2: `#sort_array_desc`
 
-Build a method `sort_array_desc` that takes in an array of integers and returns a copy of the array with the integers in descending order. Remember that `.sort` takes a block in which you can specify how you want your array sorted.
+Build a method `sort_array_desc` that takes in an array of integers and returns a copy of the   Remember that `.sort` takes a block in which you can specify how you want your array sorted.
 
 ## Question 3: `#sort_array_char_count`
 
